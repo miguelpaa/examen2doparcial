@@ -7,3 +7,4 @@
 # pilas
 # caracteres
 # posfijo1
+# posfijoeinfijofinal
